@@ -1,3 +1,5 @@
+Meta-comment: The normal catechism is meant to investigate God. This catechism is meant to investigate what? A Paper?
+
 # Part I: Problem
 
 **Why do we write papers?**
@@ -63,7 +65,19 @@ Because we supply them with evidence.
 
 # Part 4: Evidence
 
+**How do I find evidence?**
+
+Compare against baselines and show metrics that support your claims, sketch out examples and case studies, and show the readers examples that convince themselves (e.g. before the solution was this complicated thing, now you can see for yourself that it is simpler).
+
+**How much evidence do I need?**
+
+
+**What comes first, the claims or the evidence?**
+Sometimes, the evidence that you are able to collect might inform what claims you can make.
+Bottom-up vs top-down
 
 # Part 5: Deliverance 
 
 **Why do Problem, Insight, Claims, Evidence explain my paper's story?**
+
+**Now that I have defined the catechism, where do I go?**
