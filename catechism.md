@@ -21,6 +21,13 @@ Meta-comment: The normal catechism is meant to investigate God. This catechism i
 
 **Where does insight come from?**
 
+Many people struggle with your problem, so why hasn't anyone solved it?
+Because the problem is actually very difficult,
+and not just difficult because it requires a huge engineering effort.
+You require a special new perspective or an idea to solve it.
+Maybe you bang your head against the problem for days or weeks
+until you find the right new perspective.
+
 **What does insight look like?**
 
 A reusable conceptual contribution.
@@ -41,7 +48,7 @@ Insight serves as an answer to the question: If someone isn’t in your field, w
 
 - You must identify a series of claims that your new solution will have.
 
-# Part 3: Claims
+# Part III: Claims
 
 **How can I tell which things are insights and which are claims?**
 
@@ -63,7 +70,7 @@ MEASURABLE. Need to be able to say whether you accomplished them or not, definit
 
 Because we supply them with evidence.
 
-# Part 4: Evidence
+# Part IV: Evidence
 
 **How do I find evidence?**
 
@@ -73,6 +80,7 @@ Compare against baselines and show metrics that support your claims, sketch out 
 
 
 **What comes first, the claims or the evidence?**
+
 Sometimes, the evidence that you are able to collect might inform what claims you can make.
 Bottom-up vs top-down
 
